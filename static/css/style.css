@@ -1,3 +1,7 @@
-body {
-	font: 14px/1.35em Arial, Helvetica, sans-serif;
+body{
+  background: #d8d0d5;
+  color :#222;
+  font-size:14.5em;
+  text-align:center;
 }
+div{padding-top:4%;}
